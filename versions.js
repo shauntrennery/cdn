@@ -1,3 +1,3 @@
 document.lib_versions = {
-  "lib-that-updates.js": "1.1"
+  "lib-that-updates.js": "1.5"
 }
